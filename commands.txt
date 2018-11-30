@@ -1,0 +1,67 @@
+python degree_centrality.py Topic1/ summary_topic1 GroundTruth/Topic1.1 0.3
+
+python degree_centrality.py Topic1/ summary_topic1 GroundTruth/Topic1.1 0.2
+
+python degree_centrality.py Topic1/ summary_topic1 GroundTruth/Topic1.1 0.1
+
+python degree_centrality.py Topic2/ summary_topic2 GroundTruth/Topic2.1 0.3
+
+python degree_centrality.py Topic2/ summary_topic2 GroundTruth/Topic2.1 0.2
+
+python degree_centrality.py Topic2/ summary_topic2 GroundTruth/Topic2.1 0.1
+
+python degree_centrality.py Topic3/ summary_topic3 GroundTruth/Topic3.1 0.3
+
+python degree_centrality.py Topic3/ summary_topic3 GroundTruth/Topic3.1 0.2
+
+python degree_centrality.py Topic3/ summary_topic3 GroundTruth/Topic3.1 0.1
+
+python degree_centrality.py Topic4/ summary_topic4 GroundTruth/Topic4.1 0.3
+
+python degree_centrality.py Topic4/ summary_topic4 GroundTruth/Topic4.1 0.2
+
+python degree_centrality.py Topic4/ summary_topic4 GroundTruth/Topic4.1 0.1
+
+python degree_centrality.py Topic5/ summary_topic5 GroundTruth/Topic5.1 0.3
+
+python degree_centrality.py Topic5/ summary_topic5 GroundTruth/Topic5.1 0.2
+
+python degree_centrality.py Topic5/ summary_topic5 GroundTruth/Topic5.1 0.1
+
+python text_rank.py Topic1/ summary_topic1 GroundTruth/Topic1.1 0.3
+
+python text_rank.py Topic1/ summary_topic1 GroundTruth/Topic1.1 0.2
+
+python text_rank.py Topic1/ summary_topic1 GroundTruth/Topic1.1 0.1
+
+python text_rank.py Topic2/ summary_topic2 GroundTruth/Topic2.1 0.3
+
+python text_rank.py Topic2/ summary_topic2 GroundTruth/Topic2.1 0.2
+
+python text_rank.py Topic2/ summary_topic2 GroundTruth/Topic2.1 0.1
+
+python text_rank.py Topic3/ summary_topic3 GroundTruth/Topic3.1 0.3
+
+python text_rank.py Topic3/ summary_topic3 GroundTruth/Topic3.1 0.2
+
+python text_rank.py Topic3/ summary_topic3 GroundTruth/Topic3.1 0.1
+
+python text_rank.py Topic4/ summary_topic4 GroundTruth/Topic4.1 0.3
+
+python text_rank.py Topic4/ summary_topic4 GroundTruth/Topic4.1 0.2
+
+python text_rank.py Topic4/ summary_topic4 GroundTruth/Topic4.1 0.1
+
+python text_rank.py Topic5/ summary_topic5 GroundTruth/Topic5.1 0.3
+
+python text_rank.py Topic5/ summary_topic5 GroundTruth/Topic5.1 0.2
+
+python text_rank.py Topic5/ summary_topic5 GroundTruth/Topic5.1 0.1
+
+
+
+
+
+
+
+
