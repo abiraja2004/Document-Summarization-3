@@ -159,7 +159,10 @@ for i in range(len(combine_all_sub_lists)):
 			denominator=denominator1*denominator2
 
 			idf_modified_cosine=numerator/denominator
-			list_idf.append(idf_modified_cosine)
+			if idf_modified_cosine<=float(threshold):
+				list_idf.append(float(0.0))
+			else:
+				list_idf.append(idf_modified_cosine)
 
 	dict_list_idf[i]=list_idf
 
